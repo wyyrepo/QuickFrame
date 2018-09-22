@@ -1,0 +1,14 @@
+module QuickFramework
+Bar 0.1 Bar.qml
+BarIcon 0.1 BarIcon.qml
+ControlsRow 0.1 ControlsRow.qml
+LeftControlsRow 0.1 LeftControlsRow.qml
+MidControlsRow 0.1 MidControlsRow.qml
+Page 0.1 Page.qml
+QuickWindow 0.1 QuickWindow.qml
+QuickForm 0.1 QuickForm.qml
+TitleBar 0.1 TitleBar.qml
+RightControlsRow 0.1 RightControlsRow.qml
+WindowShadow 0.1 WindowShadow.qml
+singleton IconFont 0.1 IconFont.qml
+singleton Theme 0.1 Theme.qml
